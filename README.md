@@ -4,15 +4,15 @@
 
 My name is Lily, chinese name is Yujie Zeng.
 
-I'm a Web Back-end development engineer. Thank you for following me.
+I'm a software engineer. Thank you for following me.
 
-👯 You can always find me to do something interesting！
+🔭 I’m currently working on counting stars...
 
-💬 You can ask me about any questions!
+💬 You can ask me any questions.
 
 🏠 I am currently in Chengdu, Sichuan, China.
 
-📫 How to reach me:sssleverlily@gamil.com
+📫 How to reach me:sssleverlily@gmail.com
 
 <img align="left"
   alt="Top Langs"

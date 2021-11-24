@@ -1,6 +1,6 @@
 ### sssleverlily 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sssleverlilyY&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sssleverlily&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
 My name is Lily, chinese name is Yujie Zeng.
 

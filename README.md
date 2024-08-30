@@ -4,13 +4,13 @@
 
 My name is Lily, chinese name is Yujie Zeng.
 
-I'm a software engineer. Thank you for following me.
+I'm a doctoral student also a software engineer. Thank you for following me.
 
-🔭 I’m currently working on counting stars...
+🔭 I’m currently working on complex networks...
 
 💬 You can ask me any questions.
 
-🏠 I am currently in Chengdu, Sichuan, China.
+🏠 I am currently in London, UK.
 
 📫 How to reach me:sssleverlily@gmail.com
 
